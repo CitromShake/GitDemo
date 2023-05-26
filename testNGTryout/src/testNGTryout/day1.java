@@ -13,6 +13,8 @@ public class day1 {
 	@Test
 	public void TC1() {
 		System.out.println("hello");
+		System.out.println("jira");
+		System.out.println("jira2");
 	}
 	
 	@Test(groups= {"Smoke"})
